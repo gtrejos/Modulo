@@ -7,6 +7,6 @@ export class FriendNames {
 }
 
 
-const friends = new FriendNames("Karim", "Uli", "Georgina");
+const friends = new FriendNames('Karim', 'Uli', 'Georgina');
 console.log(friends); 
 
